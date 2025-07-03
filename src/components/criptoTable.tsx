@@ -82,8 +82,8 @@ function CriptoTable() {
     };
   };
 
-  // const proxyUrl = "https://cors-anywhere.herokuapp.com/";
-  const proxyUrl = "https://thingproxy.freeboard.io/fetch/";
+  const proxyUrl = "https://cors-anywhere.herokuapp.com/";
+  // const proxyUrl = "https://thingproxy.freeboard.io/fetch/";
   const apiKey = "b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c";
   const apiUrl =
     "https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/listings/latest";
